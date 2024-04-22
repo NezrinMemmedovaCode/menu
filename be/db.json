@@ -1,0 +1,189 @@
+{
+    "menu":[
+    {
+      "title": "4 nəfərlik səhər yeməyi-ekanom ",
+      "text": "Bal, Nutella, Qatılaşdırılmış süd, Yağ, Moruq mürəbbəsi, Xama, Feta pendiri, Holland pendiri, Vafli, Yoqurt, Sirnikler,Samsa ət ilə, Pomidor yumurta, İki növ kolbasa (Halal) Xiyar,Pomidor, Limitsiz çay, Limitsiz çörək.",
+      "img": "https://www.bonbon.az/wp-content/uploads/2024/04/l1-180x180.jpg",
+      "price": 35.99,
+      "id": "e7c2"
+    },
+    {
+      "title": "4 nəfərlik səhər yeməyi-Premium ",
+      "text": "Bal, Nutella, Qatılaşdırılmış süd, Yağ, Moruq mürəbbəsi, Xama, Feta pendiri,Holland pendiri,Vafli, Yoqurt, Sirnikler, Pankeyk ,Samsa ət ilə, Pomidor yumurta, Mozzarella ilə omlet, İki növ kolbasa (Halal) Xiyar,Pomidor, Limitsiz çay, Limitsiz çörək",
+      "img": "https://www.bonbon.az/wp-content/uploads/2024/04/l2-180x180.jpg",
+      "price": 41.99,
+      "id": "3a94"
+    },
+    {
+      "title": "2 nəfərlik səhər yeməyi -premium ",
+      "text": "Bal, Nutella, Qatılaşdırılmış süd, Yağ, Moruq mürəbbəsi, Xama, Feta pendiri,Holland pendiri,Vafli, Yoqurt, Sirnikler, Pankeyk ,Samsa ət ilə, Pomidor yumurta, Mozzarella ilə omlet, İki növ kolbasa (Halal) Xiyar,Pomidor, Limitsiz çay, Limitsiz çörək.",
+      "img": "https://www.bonbon.az/wp-content/uploads/2024/04/l0-180x180.jpg",
+      "price": 25.99,
+      "id": "9caf"
+    },
+    {
+      "title": "2 nəfərlik səhər yeməyi Ekonom",
+      "text": "Bal, Nutella, Qatılaşdırılmış süd, Yağ, Moruq mürəbbəsi, Xama, Feta pendiri, Holland pendiri, Vafli, Yoqurt, Sirnikler,Samsa ət ilə, Pomidor yumurta, İki növ kolbasa (Halal) Xiyar,Pomidor, Limitsiz çay, Limitsiz çörək.",
+      "img": "https://www.bonbon.az/wp-content/uploads/2024/04/l3-180x180.jpg",
+      "price": 19.99,
+      "id": "9356"
+    },
+    {
+      "title": "2 nəfərlik səhər yeməyi Ekonom",
+      "text": "Bal, Nutella, Qatılaşdırılmış süd, Yağ, Moruq mürəbbəsi, Xama, Feta pendiri, Holland pendiri, Vafli, Yoqurt, Sirnikler,Samsa ət ilə, Pomidor yumurta, İki növ kolbasa (Halal) Xiyar,Pomidor, Limitsiz çay, Limitsiz çörək.",
+      "img": "https://www.bonbon.az/wp-content/uploads/2024/04/l3-180x180.jpg",
+      "price": 19.99,
+      "id": "7f2f"
+    },
+    {
+      "title": "2 nəfərlik səhər yeməyi Ekonom",
+      "text": "Bal, Nutella, Qatılaşdırılmış süd, Yağ, Moruq mürəbbəsi, Xama, Feta pendiri, Holland pendiri, Vafli, Yoqurt, Sirnikler,Samsa ət ilə, Pomidor yumurta, İki növ kolbasa (Halal) Xiyar,Pomidor, Limitsiz çay, Limitsiz çörək.",
+      "img": "https://www.bonbon.az/wp-content/uploads/2024/04/l3-180x180.jpg",
+      "price": 19.99,
+      "id": "7e74"
+    },
+    {
+      "title": "2 nəfərlik səhər yeməyi -premium ",
+      "text": "Bal, Nutella, Qatılaşdırılmış süd, Yağ, Moruq mürəbbəsi, Xama, Feta pendiri,Holland pendiri,Vafli, Yoqurt, Sirnikler, Pankeyk ,Samsa ət ilə, Pomidor yumurta, Mozzarella ilə omlet, İki növ kolbasa (Halal) Xiyar,Pomidor, Limitsiz çay, Limitsiz çörək.",
+      "img": "https://www.bonbon.az/wp-content/uploads/2024/04/l0-180x180.jpg",
+      "price": 25.99,
+      "id": "707b"
+    },
+    {
+      "title": "2 nəfərlik səhər yeməyi -premium ",
+      "text": "Bal, Nutella, Qatılaşdırılmış süd, Yağ, Moruq mürəbbəsi, Xama, Feta pendiri,Holland pendiri,Vafli, Yoqurt, Sirnikler, Pankeyk ,Samsa ət ilə, Pomidor yumurta, Mozzarella ilə omlet, İki növ kolbasa (Halal) Xiyar,Pomidor, Limitsiz çay, Limitsiz çörək.",
+      "img": "https://www.bonbon.az/wp-content/uploads/2024/04/l0-180x180.jpg",
+      "price": 25.99,
+      "id": "9e80"
+    }
+
+  ],
+
+    "desert":[
+    {
+      "title": "Desertlər",
+      "text": "Şirin Xingal",
+      "img": "https://www.bonbon.az/wp-content/uploads/2023/10/xengel-180x180.jpg",
+      "price":19.99,
+      "id": "e7c2"
+    },
+    {
+      "title": "Şefin seçimləri",
+      "text": "İstədiyiniz dörd desert + çaynik çay",
+      "img": "https://www.bonbon.az/wp-content/uploads/2023/10/sef-180x180.jpg",
+      "price": 35.00,
+      "id": "3a94"
+    },
+    {
+      "title": "Lotus Cheesecake",
+      "text": "Lotus Cheesecake",
+      "img": "https://www.bonbon.az/wp-content/uploads/2023/10/lotus-180x180.jpg",
+      "price": 11.00,
+      "id": "9caf"
+    },
+    {
+      "title": "San Sebastian Şokolad ilə",
+      "text": "",
+      "img": "https://www.bonbon.az/wp-content/uploads/2023/12/Group-1-180x180.jpg",
+      "price": 10.50,
+      "id": "9356"
+    },
+    {
+      "title": "Crepe Tiramisu",
+      "text": "",
+      "img": "https://www.bonbon.az/wp-content/uploads/2023/10/krep-tiramusi-180x180.jpg",
+      "price": 9.50,
+      "id": "7f2f"
+    },
+    {
+      "title": "Red Velvet",
+      "text": "",
+      "img": "https://www.bonbon.az/wp-content/uploads/2023/10/red-vevet-180x180.jpg",
+      "price": 8.50,
+      "id": "7e74"
+    },
+    {
+        "title": "Red Velvet",
+        "text": "",
+        "img": "https://www.bonbon.az/wp-content/uploads/2023/10/red-vevet-180x180.jpg",
+        "price": 8.50,
+        "id": "7e74"
+      },
+
+  
+    {
+      "title": "Vafli Nutella ilə",
+      "text": "",
+      "img": "https://www.bonbon.az/wp-content/uploads/2023/10/diet-cupp-180x180.jpg",
+      "price": 10.00,
+      "id": "707b"
+    }
+   
+    ],
+    
+
+    "vafli":[
+    {
+      "title": "Şokoladlı Croffle",
+      "text": "",
+      "img": "https://www.bonbon.az/wp-content/uploads/2023/10/xengel-180x180.jpg",
+      "price":16.00,
+      "id": "e7c2"
+    },
+    {
+      "title": "Vafli şokolad ilə",
+      "text": "",
+      "img": "https://www.bonbon.az/wp-content/uploads/2023/10/sef-180x180.jpg",
+      "price": 35.00,
+      "id": "3a94"
+    },
+    {
+      "title": "Banana split Vafliesecake",
+      "text": "",
+      "img": "https://www.bonbon.az/wp-content/uploads/2023/10/lotus-180x180.jpg",
+      "price": 11.00,
+      "id": "9caf"
+    },
+    {
+      "title": "Bonbon Special Waffle",
+      "text": "",
+      "img": "https://www.bonbon.az/wp-content/uploads/2023/12/Group-1-180x180.jpg",
+      "price": 10.50,
+      "id": "9356"
+    },
+    {
+      "title": "Crepe Tiramisu",
+      "text": "",
+      "img": "https://www.bonbon.az/wp-content/uploads/2023/10/krep-tiramusi-180x180.jpg",
+      "price": 9.50,
+      "id": "7f2f"
+    },
+    {
+      "title": "Red Velvet",
+      "text": "",
+      "img": "https://www.bonbon.az/wp-content/uploads/2023/10/red-vevet-180x180.jpg",
+      "price": 8.50,
+      "id": "7e74"
+    },
+    {
+        "title": "Red Velvet",
+        "text": "",
+        "img": "https://www.bonbon.az/wp-content/uploads/2023/10/red-vevet-180x180.jpg",
+        "price": 8.50,
+        "id": "7e74"
+      },
+
+  
+    {
+      "title": "Pəhriz seçimi",
+      "text": "",
+      "img": "https://www.bonbon.az/wp-content/uploads/2023/10/diet-cupp-180x180.jpg",
+      "price": 25.99,
+      "id": "707b"
+    }
+   
+    ]
+
+
+  
+}
